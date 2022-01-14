@@ -1,0 +1,8 @@
+9,Brian,Mark,332.3,10-12-1990,160 W Addison St.,01565465468,mcanfield@icloud.com
+1,Cook,Thomas,1050.5,1-10-1982,362 11th street brooklyn,01120887795,tcook@gmail.com
+6,Cook,Bethany,2340.2,3-10-1988,13 texas street jersey city,01000000000,bcook@hotmail.com
+4,Graves,Steve,1200,1-12-1982,47 newbury st peabody ma,01204664644,sgraves@yahoo.com
+5,Graves,Daniel,4200,2-12-1982,48 washington ave chelsea ma,01333333333,dgraves@outlook.com
+7,Jason,Michael,3430.1,10-3-1988,21 Drydock Ave #410,01000050506,jmichael@icloud.com
+2,Simpson,Bethany,2020.15,1-11-1982,11 greenway plaza houston tx,01255987895,bsimpson@gmail.com
+3,Simpson,Philipe,1500,10-10-1988,33 hudson street jersey city,01248488953,psimpson@gmail.com
