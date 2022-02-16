@@ -3,6 +3,7 @@
 #include <math.h>
 #include <string.h>
 #include <ctype.h>
+// Without data bases or OOP as it was not mentioned 
 // add validations to modify
 // ****** sort , search after delete and printing & add check in the quit to ask for saving or not //////// validation names AND DATE MODIFICATION change saving path
 typedef struct
